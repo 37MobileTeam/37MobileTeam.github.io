@@ -1,8 +1,8 @@
-# 37iOS.github.io
+# [37iOS.github.io](https://37ios.github.io)
 
 <img src="/images/37iOSteam.png" width="150" style="height:auto; border-radius:50%" alt="37手游iOS技术团队"/>
 
-**37手游 iOS技术团队**
+**37手游 iOS技术团队博客**
 
 GitHub:
 - [37iOSTeam](https://github.com/37iOS)
