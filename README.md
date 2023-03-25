@@ -7,8 +7,23 @@
 GitHub:
 - [37iOSTeam](https://github.com/37iOS)
 
+
+分享动态：
+
 掘金主页：
 - [37手游iOS技术运营团队](https://juejin.cn/user/1002387318511214)
+
+知乎主页：
+- https://www.zhihu.com/people/37iOSTeam
+
+CSDN 主页：
+- https://blog.csdn.net/iOSTeam37
+
+博客园主页：
+- https://home.cnblogs.com/u/37iOSTeam
+
+腾讯云社区主页：
+- https://cloud.tencent.com/developer/user/8614627
 
 
 ### reference
