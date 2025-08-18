@@ -1,0 +1,23 @@
+{
+  "version": "1.0.0",
+  "notes": "## xxxx！",
+  "pub_date": "2025-08-15T00:00:00Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "请替换为macOS x86_64版本的签名",
+      "url": "$CDN_BASE_URL/updates/v$VERSION/App_x86_64.app.tar.gz"
+    },
+    "darwin-aarch64": {
+      "signature": "请替换为macOS ARM64版本的签名",
+      "url": "$CDN_BASE_URL/updates/v$VERSION/App_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "请替换为Windows x64版本的签名",
+      "url": "$CDN_BASE_URL/updates/v$VERSION/App_x64_en-US.msi.zip"
+    },
+    "linux-x86_64": {
+      "signature": "请替换为Linux x64版本的签名",
+      "url": "$CDN_BASE_URL/updates/v$VERSION/App_${VERSION}_amd64.AppImage.tar.gz"
+    }
+  }
+}
